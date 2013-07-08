@@ -1,0 +1,1 @@
+Sample Ember.js App using the Peepcode Tutorial
